@@ -1,0 +1,25 @@
+.vert {
+    background-color: green;
+    color: green;
+    flex-direction: column;
+}
+.jaune {
+    background-color: yellow;
+    color: yellow;
+    flex-direction: column;
+}
+.rouge {
+    background-color: red;
+    color: red;
+    flex-direction: column;
+}
+.page{
+    border: 2px solid black;
+    padding: 0px;
+    margin-left: 0px;
+    width: 1200px;
+    height: 600px;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+}
